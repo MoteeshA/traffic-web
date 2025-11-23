@@ -11,9 +11,9 @@ torchvision>=0.15.0
 
 # Image/Video Processing
 Pillow==10.0.1
-numpy==1.24.3   
+numpy==1.24.3
 
-# File handling
+# File handling / WSGI
 werkzeug==3.0.1
 
 # WebSocket support
